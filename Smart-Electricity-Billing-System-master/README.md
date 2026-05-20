@@ -38,7 +38,7 @@ While the system currently provides various payment options, including online ga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/14-sahil/Smart-Electricity-Billing-System.git
+   
    ```
 
 2. Set up MySQL database using the provided scripts in the database-scripts folder.
